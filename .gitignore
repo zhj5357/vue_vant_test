@@ -1,7 +1,8 @@
 .DS_Store
 node_modules
 /dist
-
+test/
+output-webpack-config.js
 # local env files
 .env.local
 .env.*.local
